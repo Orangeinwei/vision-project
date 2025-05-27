@@ -88,12 +88,12 @@ python Q4.py  # Saves weights to weights_resnet.pth
 
 # Q6: Object detection
 python Q6.py  # Uses pre-trained Faster R-CNN
-
-
-
+```
 
 
 ## Author
 Zhenwei Song
+
 University of Exeter
-MSc Computer Science 
+
+MSc Computer Science
