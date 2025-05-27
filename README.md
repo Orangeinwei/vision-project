@@ -63,7 +63,7 @@ vision-project/
 ├── *.jpg/png                    – Output visualizations
 ├── Report.docx                  – Full coursework report
 └── README.md
-
+```
 ---
 
 ##  Results Summary
