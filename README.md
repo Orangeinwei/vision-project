@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="gradient_visualization.jpg" alt="Gradient Visualization" width="45%" />
+  <img src="confusion_matrix.png" alt="Confusion Matrix" width="45%" />
+</p>
+
+<p align="center">
+  <em>Left: Edge detection results using Sobel filters | Right: ResNet model confusion matrix on CIFAR-10</em>
+</p>
+
+
 # vision-project
 # Multi-Task Computer Vision System (Course Project, ECMM426)
 
