@@ -16,6 +16,7 @@
 # Multi-Task Computer Vision System (Course Project, ECMM426)
 
 This repository contains a comprehensive computer vision pipeline developed as part of the ECMM426 Computer Vision assessment at the University of Exeter. The project includes traditional image processing, deep learning classification, and object detection tasks.
+Read the file "Multi-task computer vision system tasks.pdf" first to obtain the muli-task please.
 
 * Final Grade: 96/100
 
