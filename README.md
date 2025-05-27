@@ -46,21 +46,22 @@ This repository contains a comprehensive computer vision pipeline developed as p
 
 ##  Repository Structure
 
+```text
 vision-project/
-├── Q1.py – Gradient estimation
-├── Q2.py – Color histogram computation
-├── Q3.py – Affine transformation
-├── Q4.py – CNN (ResNet) training on CIFAR-10
-├── Q5.py – Test + confusion matrix
-├── Q6.py – Masked face detection & count
-├── ca_utils.py – Custom ResNet module
-├── data/ – Input images & datasets
-│ ├── coins.jpg, flower.jpg
-│ ├── cifar-10-python.tar.gz (official)
-│ └── weights_resnet.pth, weights_counting.pth
-├── *.npy – Preprocessed data arrays
-├── *.jpg/png – Output visualizations
-├── Report.docx – Full coursework report
+├── Q1.py                        – Gradient estimation
+├── Q2.py                        – Color histogram computation
+├── Q3.py                        – Affine transformation
+├── Q4.py                        – CNN (ResNet) training on CIFAR-10
+├── Q5.py                        – Test + confusion matrix
+├── Q6.py                        – Masked face detection & count
+├── ca_utils.py                  – Custom ResNet module
+├── data/                        – Input images & datasets
+│   ├── coins.jpg, flower.jpg
+│   ├── cifar-10-python.tar.gz   (official)
+│   └── weights_resnet.pth, weights_counting.pth
+├── *.npy                        – Preprocessed data arrays
+├── *.jpg/png                    – Output visualizations
+├── Report.docx                  – Full coursework report
 └── README.md
 
 ---
