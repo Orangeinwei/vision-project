@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="gradient_visualization.jpg" alt="Gradient Visualization" width="45%" />
-  <img src="confusion_matrix.png" alt="Confusion Matrix" width="45%" />
+  <img src="gradient_visualization.jpg" width="23%" />
+  <img src="color_histograms.jpg" width="23%" />
+  <img src="transformation_visualization.jpg" width="23%" />
+  <img src="confusion_matrix.png" width="23%" />
 </p>
 
 <p align="center">
-  <em>Left: Edge detection results using Sobel filters | Right: ResNet model confusion matrix on CIFAR-10</em>
+  <em>
+    From left to right: Edge detection, Color histogram, Affine transformation, ResNet confusion matrix
+  </em>
 </p>
 
 
